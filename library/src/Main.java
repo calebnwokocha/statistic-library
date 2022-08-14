@@ -1,7 +1,7 @@
 /*
- * Author: Caleb Nwokocha
- * School: The University of Manitoba
- * Department: Computer Science
+ * AUTHOR: CALEB PRINCEWILL NWOKOCHA
+ * SCHOOL: THE UNIVERSITY OF MANITOBA
+ * DEPARTMENT: COMPUTER SCIENCE
  */
 
 import java.util.Arrays;
